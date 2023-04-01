@@ -1,8 +1,3 @@
-
-<!--
-**mirzaulayya76/mirzaulayya76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 # 💫 About Me:
 Hi there! How are you doing?<br>I'm a Full Stack Web App Developer 💻<br>I'm a UI/UX Web and Mobile App Designer🖌️<br>A Commercial Pilot Single-Engine with Instrument Rated✈️<br>Multi-Engine Rated✈️
 
