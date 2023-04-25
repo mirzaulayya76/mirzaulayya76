@@ -16,13 +16,10 @@ Hi there! How are you doing?<br>I'm a Full Stack Web App Developer 💻<br>I'm a
 ![](https://github-profile-trophy.vercel.app/?username=mirzaulayya76&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mirzaulayya76&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mirzaulayya76&icon=0&color=2)](https://visitcount.itsvg.in)
